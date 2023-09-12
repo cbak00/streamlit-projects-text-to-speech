@@ -53,9 +53,9 @@ with st.container():
             st.error("မရပါ၊ ပြန်လို့လုပ်ကြည့်ပါနန်း") # to show error if there is no text on text area
             st.error(str(e))
         
-with st.sidebar:
+with st.sidebar: # This is side bar
     
-    st.write("This code will be printed to the sidebar.")
+    #st.write("This code will be printed to the sidebar.")
 
   
-    st.success("Done!")   
+    #st.success("Done!")   
