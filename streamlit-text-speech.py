@@ -55,7 +55,7 @@ with st.container():
         
 with st.sidebar: # This is side bar
     
-    #st.write("This code will be printed to the sidebar.")
+    st.write("Written By")
 
   
-    #st.success("Done!")   
+    st.success("Kyaw Tun Linn")   
